@@ -1,0 +1,20 @@
+Jun 21, 2020 11:50:50 AM io.github.yedaxia.apidocs.LogUtils info
+INFO: info: find java src paths:  [/Users/cody/workspace/02_learning/study/src/main/java/]
+Jun 21, 2020 11:50:50 AM io.github.yedaxia.apidocs.LogUtils info
+INFO: info: project type not set, try to figure out...
+Jun 21, 2020 11:50:50 AM io.github.yedaxia.apidocs.LogUtils info
+INFO: info: start find controllers in path : /Users/cody/workspace/02_learning/study/src/main/java/
+Jun 21, 2020 11:50:51 AM io.github.yedaxia.apidocs.LogUtils info
+INFO: info: find controller file : UserController.java
+Jun 21, 2020 11:50:51 AM io.github.yedaxia.apidocs.LogUtils info
+INFO: info: generate api docs start...
+Jun 21, 2020 11:50:51 AM io.github.yedaxia.apidocs.LogUtils info
+INFO: info: start to parse controller file : UserController.java
+Jun 21, 2020 11:50:51 AM io.github.yedaxia.apidocs.LogUtils info
+INFO: info: success to parse controller file : UserController.java
+Jun 21, 2020 11:50:51 AM io.github.yedaxia.apidocs.LogUtils info
+INFO: info: start to generate docs for controller file : /Users/cody/workspace/02_learning/study/src/main/java/com/cody/study/controller/UserController.java
+Jun 21, 2020 11:50:51 AM io.github.yedaxia.apidocs.LogUtils info
+INFO: info: success to generate docs for controller file : /Users/cody/workspace/02_learning/study/src/main/java/com/cody/study/controller/UserController.java
+Jun 21, 2020 11:50:51 AM io.github.yedaxia.apidocs.LogUtils info
+INFO: info: generate api docs done !!!
