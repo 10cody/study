@@ -21,7 +21,7 @@ StringBuilder 是 Java 1.5 中新增的，在能力上和 StringBuffer 没有本
 
 String 相关类的演进，比如 Java 9 中实现的巨大变化。
 
-…
+![avatar](../../images/java/java_5_1.png)
 
 针对上面这几方面，我会在知识扩展部分与你详细聊聊。
 
